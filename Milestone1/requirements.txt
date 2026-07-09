@@ -1,0 +1,6 @@
+
+streamlit
+pyjwt
+pyngrok
+streamlit-option-menu
+email-validator
