@@ -22,7 +22,7 @@ The main focus of this project is to implement:
 - User Dashboard
 
 ---
-![Project Overview](screenshots/project overview.png)
+![project overview](screenshots/project_overview.png)
 
 ## Features
 
@@ -52,12 +52,14 @@ The main focus of this project is to implement:
 ### 🔒 Forgot Password
 
 Two recovery options are available:
+![Forgot Password](screenshots/reset_password.png)
 
 #### Security Question
 - Verify the user's security answer
 - Reset password securely
 
-![Security Question](screenshots/forgot_security.png)
+![Security Question](screenshots/forgot_password-security_questions.png)
+
 #### Email OTP
 - Generate a 6-digit OTP
 - Send OTP through Email
@@ -65,6 +67,9 @@ Two recovery options are available:
 - Reset password
 
 ---
+![Security Question Otp Generation](screenshots/forgot_password-otp_generation.png)
+![Security Question Otp](screenshots/otp_in_mail.png)
+![Security Question Otp](screenshots/forgot_password-otp.png)
 
 ### 🏠 User Dashboard
 
@@ -76,6 +81,8 @@ After successful login, users can:
 
 ---
 
+![Dashboard](screenshots/user_dashboard.png)
+
 ### 🛡 Admin Panel
 
 Admin can:
@@ -85,6 +92,8 @@ Admin can:
 - View registered email addresses
 
 ---
+![Admin Dashboard](screenshots/admin_login.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)
 
 ## Technologies Used
 
