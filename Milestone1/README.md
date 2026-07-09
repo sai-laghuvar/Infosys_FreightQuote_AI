@@ -22,6 +22,7 @@ The main focus of this project is to implement:
 - User Dashboard
 
 ---
+![Project Overview](screenshots/project overview.png)
 
 ## Features
 
@@ -36,6 +37,7 @@ The main focus of this project is to implement:
 
 ---
 
+![Signup Page](screenshots/signup.png)
 ### 🔑 User Login
 
 - Login using Username or Email
@@ -45,6 +47,8 @@ The main focus of this project is to implement:
 
 ---
 
+![Login Page](screenshots/login.png)
+
 ### 🔒 Forgot Password
 
 Two recovery options are available:
@@ -53,6 +57,7 @@ Two recovery options are available:
 - Verify the user's security answer
 - Reset password securely
 
+![Security Question](screenshots/forgot_security.png)
 #### Email OTP
 - Generate a 6-digit OTP
 - Send OTP through Email
