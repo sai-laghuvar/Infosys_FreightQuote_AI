@@ -58,7 +58,7 @@ Two recovery options are available:
 - Verify the user's security answer
 - Reset password securely
 
-![Security Question](screenshots/forgot_password-security_questions.png)
+![Security Question](screenshots/forgot_password-security_question.png)
 
 #### Email OTP
 - Generate a 6-digit OTP
@@ -68,7 +68,7 @@ Two recovery options are available:
 
 ---
 ![Security Question Otp Generation](screenshots/forgot_password-otp_generation.png)
-![Security Question Otp](screenshots/otp_in_mail.png)
+![Security Question Otp In Mail](screenshots/otp_in_mail.png)
 ![Security Question Otp](screenshots/forgot_password-otp.png)
 
 ### 🏠 User Dashboard
@@ -81,7 +81,7 @@ After successful login, users can:
 
 ---
 
-![Dashboard](screenshots/user_dashboard.png)
+![User Dashboard](screenshots/user_dashboard.png)
 
 ### 🛡 Admin Panel
 
@@ -92,7 +92,7 @@ Admin can:
 - View registered email addresses
 
 ---
-![Admin Dashboard](screenshots/admin_login.png)
+![Admin login](screenshots/admin_login.png)
 ![Admin Dashboard](screenshots/admin_dashboard.png)
 
 ## Technologies Used
@@ -148,62 +148,6 @@ streamlit run app.py
 3. Open the Streamlit URL in your browser.
 
 ---
-
-# Screenshots
-
-## Login Page
-
-*(Add Login Screenshot here)*
-
-![Login](screenshots/login.png)
-
----
-
-## Signup Page
-
-*(Add Signup Screenshot here)*
-
-![Signup](screenshots/signup.png)
-
----
-
-## Forgot Password - Security Question
-
-*(Add Security Question Screenshot here)*
-
-![Security Question](screenshots/forgot_security.png)
-
----
-
-## Forgot Password - Email OTP
-
-*(Add Email OTP Screenshot here)*
-
-![Email OTP](screenshots/forgot_otp.png)
-
----
-
-## OTP Received in Email
-
-*(Add OTP Email Screenshot here)*
-
-![OTP Email](screenshots/otp_email.png)
-
----
-
-## User Dashboard
-
-*(Add Dashboard Screenshot here)*
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## Admin Dashboard
-
-*(Add Admin Screenshot here)*
-
-![Admin](screenshots/admin.png)
 
 ---
 
