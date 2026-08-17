@@ -1,5 +1,3 @@
-Agentic AI for Maritime Freight Pricing and Route Optimization
-
 ## Agentic AI for Maritime Freight Pricing & Route Optimization
 
 **Infosys Springboard 7.0 --- Batch 1 \| Milestone 4**
