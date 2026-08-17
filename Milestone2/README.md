@@ -1,4 +1,4 @@
-# 🚚 FreightQuote AI – Intelligent Multi-Agent Logistics Platform
+# Agentic AI for Maritime Freight Pricing and Route Optimization
 
 > An AI-powered logistics intelligence platform developed as part of the **Infosys Springboard Internship – Milestone 2**.
 
