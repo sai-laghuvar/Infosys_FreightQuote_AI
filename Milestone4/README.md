@@ -1,4 +1,4 @@
-# 🚢 FreightQuote AI
+Agentic AI for Maritime Freight Pricing and Route Optimization
 
 ## Agentic AI for Maritime Freight Pricing & Route Optimization
 
