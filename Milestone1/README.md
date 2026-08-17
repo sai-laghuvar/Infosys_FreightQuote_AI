@@ -1,4 +1,4 @@
-# 🚚 Infosys FreightQuote
+# Agentic AI for Maritime Freight Pricing and Route Optimization
 
 A secure user authentication system developed as part of the **Infosys Springboard Virtual Internship**.
 
